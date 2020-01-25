@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="server">
+</Property><Property Name="Solution File" Value="C:\Users\exam\Desktop\MCA\chat_server\server\server.sln">
+</Property><Property Name="Date" Value="Saturday, January 25, 2020">
+</Property><Property Name="Time" Value="11:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="server" Source="server.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="server" Source="server.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="server" Source="server.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+C:\Users\exam\Desktop\MCA\chat_client\client\bin\Debug\client.exe
+C:\Users\exam\Desktop\MCA\chat_client\client\bin\Debug\client.pdb
+C:\Users\exam\Desktop\MCA\chat_client\client\bin\Debug\client.xml
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\client.exe
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\client.xml
+C:\Users\exam\Desktop\MCA\chat_client\client\obj\Debug\client.pdb
